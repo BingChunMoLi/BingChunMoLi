@@ -26,6 +26,5 @@ jobs:
         with:
           message: snake
           branch: snake
-          dir: snake
           history: false
           
