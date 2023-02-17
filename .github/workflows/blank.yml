@@ -24,8 +24,8 @@ jobs:
             snack/github-snake-dark.svg?palette=github-dark
       - uses: casperdcl/push-dir@v1
         with:
-          message: Snack
-          branch: snack
-          dir: snack
+          message: snake
+          branch: snake
+          dir: snake
           history: false
           
